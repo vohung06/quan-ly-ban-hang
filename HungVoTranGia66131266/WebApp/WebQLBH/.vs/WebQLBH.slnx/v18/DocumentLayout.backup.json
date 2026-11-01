@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|d:\\hoctap\\project_github\\quan-ly-ban-hang\\hungvotrangia66131266\\webapp\\webqlbh\\webqlbh\\controllers\\donvitinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|solutionrelative:webqlbh\\controllers\\donvitinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|d:\\hoctap\\project_github\\quan-ly-ban-hang\\hungvotrangia66131266\\webapp\\webqlbh\\webqlbh\\models\\donvitinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|solutionrelative:webqlbh\\models\\donvitinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|d:\\hoctap\\project_github\\quan-ly-ban-hang\\hungvotrangia66131266\\webapp\\webqlbh\\webqlbh\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|solutionrelative:webqlbh\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|d:\\hoctap\\project_github\\quan-ly-ban-hang\\hungvotrangia66131266\\webapp\\webqlbh\\webqlbh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|solutionrelative:webqlbh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|d:\\hoctap\\project_github\\quan-ly-ban-hang\\hungvotrangia66131266\\webapp\\webqlbh\\webqlbh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{798CDCA8-C15C-4265-A117-0A2C3A6D6361}|WebQLBH\\WebQLBH.csproj|solutionrelative:webqlbh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebQLBH\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebQLBH\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T15:12:01.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonViTinhsController.cs",
+              "DocumentMoniker": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\Controllers\\DonViTinhsController.cs",
+              "RelativeDocumentMoniker": "WebQLBH\\Controllers\\DonViTinhsController.cs",
+              "ToolTip": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\Controllers\\DonViTinhsController.cs",
+              "RelativeToolTip": "WebQLBH\\Controllers\\DonViTinhsController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwIUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T15:25:25.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\Program.cs",
+              "RelativeDocumentMoniker": "WebQLBH\\Program.cs",
+              "ToolTip": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\Program.cs",
+              "RelativeToolTip": "WebQLBH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T15:22:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\appsettings.json",
+              "RelativeDocumentMoniker": "WebQLBH\\appsettings.json",
+              "ToolTip": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\appsettings.json",
+              "RelativeToolTip": "WebQLBH\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T15:04:09.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonViTinh.cs",
+              "DocumentMoniker": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\Models\\DonViTinh.cs",
+              "RelativeDocumentMoniker": "WebQLBH\\Models\\DonViTinh.cs",
+              "ToolTip": "D:\\HocTap\\Project_GitHub\\quan-ly-ban-hang\\HungVoTranGia66131266\\WebApp\\WebQLBH\\WebQLBH\\Models\\DonViTinh.cs",
+              "RelativeToolTip": "WebQLBH\\Models\\DonViTinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T15:17:40.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
