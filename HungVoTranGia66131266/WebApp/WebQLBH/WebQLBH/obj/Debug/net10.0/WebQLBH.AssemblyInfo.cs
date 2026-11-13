@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebQLBH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+816e9d8a1995204517fcd7886bf3ef185e258c1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baca79f2fc896d53c4310487d0b257123fbfcac4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebQLBH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebQLBH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

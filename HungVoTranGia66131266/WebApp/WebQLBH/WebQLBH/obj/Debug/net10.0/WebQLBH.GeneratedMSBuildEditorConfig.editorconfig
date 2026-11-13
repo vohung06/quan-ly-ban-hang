@@ -31,24 +31,24 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinh/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oXENyZWF0ZS5jc2h0bWw=
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinhs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinh/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oXERlbGV0ZS5jc2h0bWw=
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinhs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinh/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oXERldGFpbHMuY3NodG1s
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinhs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinh/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oXEVkaXQuY3NodG1s
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinhs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinh/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oXEluZGV4LmNzaHRtbA==
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/DonViTinhs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlUaW5oc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/Home/Index.cshtml]
@@ -57,6 +57,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/NhomSPs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbVNQc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/NhomSPs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbVNQc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/NhomSPs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbVNQc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/NhomSPs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbVNQc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/NhomSPs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhvbVNQc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/HocTap/Project_GitHub/quan-ly-ban-hang/HungVoTranGia66131266/WebApp/WebQLBH/WebQLBH/Views/Shared/Error.cshtml]

@@ -25,9 +25,9 @@
                 @Html.DisplayFor(model => item.TenDVT)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.MaDVT">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.MaDVT">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.MaDVT">Delete</a>
+                @Html.ActionLink("Edit", "Edit", new { MaDVT = @item.MaDVT}) |
+                @Html.ActionLink("Details", "Details", new {MaDVT = @item.MaDVT}) |
+                @Html.ActionLink("Delete", "Delete", new {MaDVT = @item.MaDVT})                
             </td>
         </tr>
 }
